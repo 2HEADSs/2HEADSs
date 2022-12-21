@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://github.com/2HEADSs
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
