@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavel Dimitrov.</h1>
 <h3 align="center">I'm working with these technologies:</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">https://github.com/2HEADSs</p>
-<p align="left">https://www.linkedin.com/in/pavel-dimitrov-b6a503229/</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><!--JavaScript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -31,7 +26,7 @@
       height="40" /></a></p><!--Angular--><a href="https://angular.io" target="_blank" rel="noreferrer"><img
     src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a><!--Typescript--><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 
-<h3>📫 How to contact me?</h3>
+<h3>📫 Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pavel-dimitrov-b6a503229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
