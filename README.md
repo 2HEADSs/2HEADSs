@@ -9,8 +9,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /></a><!--CSS--><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a><!--Git--><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a><!--Mocha--><a href="https://mochajs.org" target="_blank" rel="noreferrer">
+      width="40" height="40" /> </a><!--Git--><a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a><!--Mocha--><a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a><!--Mongo DB--><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" /></a><!--Node Js--><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
