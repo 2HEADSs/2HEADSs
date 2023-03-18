@@ -16,7 +16,7 @@
       alt="nodejs" width="40" height="40" /></a><!--Express--><a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
       alt="express" width="70" height="30" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a><!--Postman--><a href="https://postman.com" target="_blank" rel="noreferrer"><img
+</a><!--Postman--><a href="https://postman.com" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a><!--Firebase--><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a><!--React--><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
