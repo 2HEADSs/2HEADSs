@@ -11,8 +11,13 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a><!--Git--><a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a><!--Mocha--><a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a><!--Mongo DB--><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /></a><!--Node Js--><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="mongodb" width="40" height="40" /></a><!--Node Js--><a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      
+      
+            <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png)"
+      alt="solidity" width="40" height="40" /></a><!--Solidity--><a href="[https://expressjs.com](https://docs.soliditylang.org/en/v0.8.20/#)" target="_blank" rel="noreferrer">
+      
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /></a><!--Express--><a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
       alt="express" width="70" height="30" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
