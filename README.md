@@ -10,7 +10,7 @@
 
 | Project | Stack | One-liner |
 |---------|-------|-----------|
-| **Motorsport Events Server** | Angular • Express • MongoDB | Part of an 8-person team delivering real-time race data APIs and admin UI. Auth, Swagger docs. |
+| **Motorsport Events Server** | Angular • Express • MongoDB | Part of an 8-person team delivering race calendar APIs and admin UI. Auth, Swagger docs. |
 | **Pizza Hub** | React (MERN) • Firebase and Vercel Hosting | My first end-to-end project. |
 | **MotoStore** | NestJS • PostgreSQL (BE) → React + TypeScript (up next) | Currently designing robust REST & GraphQL API; FE starts once BE is feature-complete. |
 
