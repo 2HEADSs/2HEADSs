@@ -10,15 +10,15 @@
 
 | Project | Stack | One-liner |
 |---------|-------|-----------|
-| **Motorsport Events Server** | Angular • Express • MongoDB | Part of an 8-person team delivering real-time race data APIs and admin UI. Auth, Swagger docs, CI/CD. |
-| **Pizza Hub** | React (MERN) • Firebase Hosting | My first end-to-end project: menu, cart, orders, payments. Still live & maintained after 2 years. |
+| **Motorsport Events Server** | Angular • Express • MongoDB | Part of an 8-person team delivering real-time race data APIs and admin UI. Auth, Swagger docs. |
+| **Pizza Hub** | React (MERN) • Firebase and Vercel Hosting | My first end-to-end project. |
 | **MotoStore** | NestJS • PostgreSQL (BE) → React + TypeScript (up next) | Currently designing robust REST & GraphQL API; FE starts once BE is feature-complete. |
 
 ### 📚 Currently learning
 `NestJS` • `React + TypeScript` • deeper database design & indexing
 
 ### 🏅 Certifications & milestones
-- **SoftUni JavaScript Developer** (full path)
+- **SoftUni JavaScript Developer** (React, Angular, Express)
 - **ServiceNow** — CSA, ITSM, SPM, HRSD
 
 ### 🛠️ Toolbox
